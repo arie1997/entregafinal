@@ -69,6 +69,7 @@ Nova Studio es un equipo diverso de profesionales creativos y técnicos comprome
 <h3>Cuenta con un formulario de contacto para el usuario pueda solicitar información sobre nosotros o nuestros servicios.</h3>
 <br>
 <li>Tres campos de texto con PlaceHolder y validación para, <b>Nombre, Email y Consulta</b>.</li>
+<li>Al enviar correctamente el formulario, recibirá una alerta del navegador con la leyenda <b>"Su mensaje se ha enviado correctamente!"</b></li>
 <li>Botón <b>"Enviar"</b> y <b>"Reiniciar Campos"</b> con efecto de cambio de color al colocar el puntero sobre cada uno.</li>
 <li>Integración con mapa de Ubicación.</li>
 <br>
