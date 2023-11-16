@@ -83,3 +83,5 @@ Nova Studio es un equipo diverso de profesionales creativos y técnicos comprome
 <br>
 <img src="https://github.com/arie1997/assets/blob/main/footer.png" width="800">
 <br>
+<h1>link al sitio web:</h1>
+[Deploy](https://arie1997.github.io/entregafinal/)
