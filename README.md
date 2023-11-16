@@ -15,17 +15,35 @@ Nova Studio es un equipo diverso de profesionales creativos y técnicos comprome
 <h3>Portafolio Interactivo:</h3> Explora nuestro portafolio de proyectos destacados mediante una interfaz interactiva que muestra nuestro trabajo de manera visual y detallada.
 <br>
 <br>
-<h1>Algunas Screenshots de nuestra página web y algunas características:</h1>
+<h1>Screenshots de nuestra página web y algunas de sus características:</h1>
 
 <h2>Sección Main con un diseño corporativo</h2>
 <h3>Cuenta con imagen de nuestro equipo y un degradado en color negro</h3>
+<br>
+<li>Cuatro íconos de redes sociales con efecto zoom si coloca el puntero sobre cada uno.</li>
+
+<li>Facebook</li>
+
+<li>Instagram</li>
+
+<li>X (ex Twitter)</li>
+
+<li>Youtube</li>
+<br>
 <img src="https://github.com/arie1997/assets/blob/main/mainNovaStudio.png" width="800">
 <br>
 <h2>Barra de navegación transitiva</h2>
-<h3>Se integra con el contenido a medida que se desplaza hacia otras secciones</h3>
+<h3>Se integra con el contenido a medida que se desplaza hacia otras secciones.</h3>
+<li>Botón de llamada a la acción <b>"Contactar vía Whatsapp"</b></li>
+<br>
 <img src="https://github.com/arie1997/assets/blob/main/nav.png" width="800">
 <br>
 <h2>Sección Servicios</h2>
-<h3>Si desplaza el puntero del mouse sobre estos servicio podrá visualizar una animacion de zoom</h3>
+<h3>Cuenta con tres columnas de servicios, si desplaza el puntero del mouse sobre cada uno de estos servicio podrá visualizar una animacion de zoom</h3>
+<br>
+<li>Botón de llamada a la acción <b>"¡Contactar ahora!"</b></li>
+<br>
 <img src="https://github.com/arie1997/assets/blob/main/seccionServicios.png" width="800">
 <br>
+
+
