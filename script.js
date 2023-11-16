@@ -16,4 +16,7 @@ window.onscroll = () => {
     menu.classList.remove('bx-x');
     navlist.classList.remove('active');
 };
-
+function mostrarAlerta() {
+    alert("Su mensaje se ha enviado correctamente!");
+        }
+    
